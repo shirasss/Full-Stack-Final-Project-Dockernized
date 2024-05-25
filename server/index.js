@@ -24,4 +24,4 @@ app.use('/api/items', itemsRouter);
 app.use('/api/bag', bagRouter);
 app.use('/api/sizes', sizesRouter);
 
-app.listen(8000);
+app.listen(3001);
