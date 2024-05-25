@@ -1,5 +1,5 @@
 // let url = 'localhost'
-let url = '16.16.25.121'
+let url = '13.51.69.9'
 
 async function getItemsByCategory(classification_id, category_id) {
     try {
