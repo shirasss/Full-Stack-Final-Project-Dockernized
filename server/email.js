@@ -13,7 +13,6 @@ function Email(user, html) {
 
     var mailOptions = {
         from: 'kidstore@outlook.co.il',
-        // from: 'shirass321@gmail.com',
         to: user.user_email,
         subject: `Dear ${user.user_name}`,
         html: html,
